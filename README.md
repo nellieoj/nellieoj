@@ -13,9 +13,9 @@
 <p>Tech Enthusiast and Self-taught web developer</p>
 <br />
 
+
+⚡ Technologies
 <br/>
-## ⚡ Technologies
-  <br/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
