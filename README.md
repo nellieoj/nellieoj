@@ -1,5 +1,5 @@
 
-Nellie/README.md
+
 ### Hi there 👋
 
 I am Chinelo Leticia,a tech enthusiast and a Self-taught web developer. I am a UI designer and also a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
