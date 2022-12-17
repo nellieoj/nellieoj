@@ -5,9 +5,9 @@
 I am Chinelo Leticia,a tech enthusiast and a Self-taught web developer. I am a UI designer and also a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ChineloLeticia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinelo-leticia-8412a4188/)](https://www.linkedin.com/in/chinelo-leticia-8412a4188/)
-<!-- [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/-chineloleticia5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chineloleticia5@gmail.com)](mailto:chineloleticia5@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Ellie_oj-1877F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ellie_oj)](https://twitter.com/ellie_oj)
+<!-- [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/) -->
 
 
 ## ⚡ Technologies
