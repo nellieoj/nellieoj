@@ -10,7 +10,7 @@
 </p>
 <br />
 
-<p>Tech Enthusiast and Self-taught web developer</p>
+<p>Tech Enthusiast and a Self-taught web developer</p>
 <br />
 
 
