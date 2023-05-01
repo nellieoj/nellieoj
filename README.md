@@ -10,7 +10,11 @@
 </p>
 <br />
 
-<p>Tech Enthusiast and a Self-taught web developer</p>
+<p>Tech Enthusiast </p>
+  <p>Currently Learning Node.js 🍻 </p>
+  
 <br />
 
 
+
+  
