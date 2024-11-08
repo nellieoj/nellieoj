@@ -11,7 +11,7 @@
 <br />
 
 <p>Tech Enthusiast </p>
-  <p>Currently Learning Node.js 🍻 </p>
+  <p>Currently Learning Cloud Engineering 🍻 </p>
   
 <br />
 
